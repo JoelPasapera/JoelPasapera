@@ -6,10 +6,6 @@ I turn data into decisions: statistical models, trading strategies, and analysis
 
 ---
 
-#### 🧰 What I work with
-
-`Python` for data analysis and statistical modeling · `Numba` for performance · `Pine Script` & `MQL5` for trading strategies and backtesting · data visualization
-
 
 #### 🔗 Find me
 
