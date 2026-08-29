@@ -8,8 +8,7 @@ development philosophy:
 
 1. Development of high-performance algorithms (including building from scratch if the system requires it) 
 2. "No uploads. No servers. No tracking" (whenever possible)
-3. Preference for low-level implementations for systems with critical requirements
-
+3. Preference for low-level implementations when performance and reliability are critical.
 
 ---
 
