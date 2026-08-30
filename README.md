@@ -1,23 +1,3 @@
-# Joel Pasapera
-
-**Data-oriented Python developer — quantitative analysis & trading systems.**
-
-I turn data into decisions: statistical models, trading strategies, and analysis pipelines, with a focus on keeping the number-crunching fast. Based in Peru 🇵🇪, working in quantitative and algorithmic trading.
-
-development philosophy: 
-
-1. Development of high-performance algorithms (including building from scratch if the system requires it) 
-2. "No uploads. No servers. No tracking" (whenever possible)
-3. Preference for low-level implementations when performance and reliability are critical.
-
----
-
-
-#### 🔗 Find me
-
-[Portfolio](https://joelpasapera.github.io/) · [ORCID](https://orcid.org/0000-0003-3023-2147) · [MQL5](https://www.mql5.com/en/users/joel_pasapera)
-
----
 
 <div align="center">
 
@@ -35,6 +15,12 @@ development philosophy:
 
 </div>
 
+---
+## 🧠 Development Philosophy
+
+* **Local-First & Zero-Trust Privacy:** *"No uploads. No servers. No tracking"* (whenever possible). Prioritizing client-side execution, offline functionality, and absolute data privacy by keeping computations on the user's machine.
+* **Mechanical Sympathy & Low-Level Control:** Preferring low-level implementations (Rust/C++) when latency, memory constraints, and system reliability are critical, ensuring predictable performance under load.
+* **First-Principles Algorithm Design:** Writing high-performance algorithms and custom data structures from scratch when off-the-shelf libraries or abstraction layers introduce unnecessary overhead, memory bloat, or dependencies.
 ---
 
 ## 🛠️ Technology Stack & Operational Strategy
@@ -84,6 +70,11 @@ development philosophy:
 
 ---
 
+#### 🔗 Find me
+
+[Portfolio](https://joelpasapera.github.io/) · [ORCID](https://orcid.org/0000-0003-3023-2147) · [MQL5](https://www.mql5.com/en/users/joel_pasapera)
+
+---
 <div align="center">
 
 *Engineered for performance, safety, and architectural clarity.*
